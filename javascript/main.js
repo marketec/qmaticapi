@@ -4,8 +4,8 @@ const username = "mark";
 const password = "Qmatic1234";
 
 // Set the server URL and the API endpoint
-const server = "https://us-publicsales.qmatic.cloud";
-const endpoint = "/rest/managementinformation/v2/branches/";
+const server = "https://git.heroku.com"
+const endpoint = "/waiting-time-app.git";
 
 // Create the request headers
 const headers = new Headers({
